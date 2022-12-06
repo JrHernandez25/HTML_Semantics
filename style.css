@@ -1,0 +1,33 @@
+body{
+background-color: skyblue;
+}
+header{
+    text-align: center;
+    font-family: 'Zen Dots';
+}
+li{
+    border: solid white 5px;
+    background-color: white;
+    border-radius: 20px;
+    width: 12%;
+    text-align: center;
+}
+p{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    font-family: 'Zen Dots';
+}
+#s2{
+    display: inline;
+    vertical-align: top;
+    margin-left: 25%;
+}
+section{
+    display: inline;
+    vertical-align: top;
+    margin-left: 25%;
+}
+footer{
+    text-align: center;
+}
